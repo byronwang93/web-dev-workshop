@@ -91,7 +91,7 @@ li {
     border-radius: 20px;
 }
 
-.joke-btn {
+#joke-btn {
     border-radius: 12px;
     cursor: pointer;
     color: white;
@@ -102,7 +102,7 @@ li {
     font-family: "Coming Soon";
 }
 
-.joke-btn:hover {
+#joke-btn:hover {
     transform: scale(1.1);
     transition: 0.3s ease;
 }
